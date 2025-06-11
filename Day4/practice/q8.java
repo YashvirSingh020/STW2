@@ -6,7 +6,7 @@ public class q8 {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         List<String> list = new ArrayList<String>();
-        
+        p
         sc.close();
 
     }
